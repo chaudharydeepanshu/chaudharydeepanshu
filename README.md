@@ -6,6 +6,7 @@
 - 🦍 I have worked with Flutter, Jetpack Compose, and Android.
 - 💞️ Always looking forward to collaborating on projects which sound interesting and fun.
 - 🕵️ You can find me on [StackOverflow](https://stackoverflow.com/users/15199864/deepanshu), [Medium](https://medium.com/@deepanshuc2141), [LinkedIn](https://www.linkedin.com/in/chaudhary-deepanshu/).
+- 📄 My [Resume](https://github.com/chaudharydeepanshu/chaudharydeepanshu/files/8500050/Deepanshu.Resume.Without.Details.pdf).
 - 📫 You can reach to me at [Discord](https://discordapp.com/users/546260843902271515/), [Email](mailto:0qs8e9yn@duck.com?subject=[GitHub]).
 
 <!---
