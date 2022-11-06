@@ -1,10 +1,11 @@
-👋 Hi, I am Deepanshu Chaudhary an avid software developer from India.
+### Hi there👋
 
-- 👀 I’m always interested in creating and working on projects that offer value to others and help me to learn something new.
-- 🌱 Currently I'm working on a few projects over [PIA](https://github.com/PureInfoApps).
-- 🦾 I have programmed in Dart, Kotlin, C++, C, and Python.
-- 🦍 I have worked with Flutter, Jetpack Compose, and Android.
-- 💞️ Always looking forward to collaborating on projects which sound interesting and fun.
+**I'm Deepanshu, I create stuff with code 🧑‍💻**
+
+- 👀 I'm currently working on a couple Android apps and a few Flutter plugins (checkout the pinned repositories).
+- 🦾 I have mostly worked with Dart, Kotlin, Java, Python, JavaScript and C++.
+- 🦍 I also have experience with MongoDB, SQLite, Firebase, Flutter, Jetpack Compose, and Node.js.
+- 💞️ Always looking forward to working with others on projects that sound exciting and fun.
 - 🕵️ You can find me on [StackOverflow](https://stackoverflow.com/users/15199864/deepanshu), [Medium](https://medium.com/@deepanshuc2141), [LinkedIn](https://www.linkedin.com/in/chaudhary-deepanshu/).
 - 📄 My [Resume](https://github.com/chaudharydeepanshu/chaudharydeepanshu/files/8500050/Deepanshu.Resume.Without.Details.pdf).
 - 📫 You can reach to me at [Discord](https://discordapp.com/users/546260843902271515/), [Email](mailto:0qs8e9yn@duck.com?subject=[GitHub]).
