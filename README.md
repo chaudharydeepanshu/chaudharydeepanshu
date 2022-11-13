@@ -10,6 +10,11 @@
 - 📄 My [Resume](https://github.com/chaudharydeepanshu/chaudharydeepanshu/files/8500050/Deepanshu.Resume.Without.Details.pdf).
 - 📫 You can reach to me at [Discord](https://discordapp.com/users/546260843902271515/), [Email](mailto:0qs8e9yn@duck.com?subject=[GitHub]).
 
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <!---
 chaudharydeepanshu/chaudharydeepanshu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
