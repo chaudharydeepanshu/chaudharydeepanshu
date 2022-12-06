@@ -21,16 +21,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 September 2021 - To: 04 December 2022
+From: 07 September 2021 - To: 05 December 2022
 
-Total Time: 1,293 hrs 3 mins
+Total Time: 1,303 hrs 21 mins
 
-Dart                          1,070 hrs       >>>>>>>>>>>>>>>>>>>>>----   82.75 %
-Kotlin                        129 hrs 51 mins >>>----------------------   10.04 %
-YAML                          37 hrs 34 mins  >------------------------   02.91 %
-XML                           16 hrs 24 mins  -------------------------   01.27 %
-Groovy                        10 hrs 56 mins  -------------------------   00.85 %
-Markdown                      9 hrs 39 mins   -------------------------   00.75 %
+Dart                          1,080 hrs 18 mins>>>>>>>>>>>>>>>>>>>>>----   82.89 %
+Kotlin                        129 hrs 51 mins >>-----------------------   09.96 %
+YAML                          37 hrs 34 mins  >------------------------   02.88 %
+XML                           16 hrs 24 mins  -------------------------   01.26 %
+Groovy                        10 hrs 56 mins  -------------------------   00.84 %
+Markdown                      9 hrs 39 mins   -------------------------   00.74 %
 ```
 
 <!--END_SECTION:waka-->
