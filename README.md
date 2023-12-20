@@ -23,14 +23,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2021 - To: 18 December 2023
+From: 07 September 2021 - To: 19 December 2023
 
-Total Time: 2,371 hrs 10 mins
+Total Time: 2,375 hrs 46 mins
 
-Dart                          1,934 hrs 30 mins>>>>>>>>>>>>>>>>>>>>-----   81.58 %
-Kotlin                        142 hrs 16 mins >>-----------------------   06.00 %
-Python                        76 hrs 50 mins  >------------------------   03.24 %
-YAML                          66 hrs 58 mins  >------------------------   02.82 %
+Dart                          1,938 hrs 45 mins>>>>>>>>>>>>>>>>>>>>-----   81.61 %
+Kotlin                        142 hrs 16 mins >------------------------   05.99 %
+Python                        76 hrs 50 mins  >------------------------   03.23 %
+YAML                          67 hrs 11 mins  >------------------------   02.83 %
 Text                          24 hrs 30 mins  -------------------------   01.03 %
 ```
 
