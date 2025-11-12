@@ -30,11 +30,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2021 - To: 10 November 2025
+From: 07 September 2021 - To: 11 November 2025
 
-Total Time: 5,829 hrs 21 mins
+Total Time: 5,832 hrs 6 mins
 
-Dart                          4,818 hrs 4 mins>>>>>>>>>>>>>>>>>>>>>----   82.65 %
+Dart                          4,820 hrs 48 mins>>>>>>>>>>>>>>>>>>>>>----   82.66 %
 YAML                          240 hrs 5 mins  >------------------------   04.12 %
 Kotlin                        172 hrs 47 mins >------------------------   02.96 %
 TypeScript                    131 hrs 19 mins >------------------------   02.25 %
