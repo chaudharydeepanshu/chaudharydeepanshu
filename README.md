@@ -30,15 +30,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2021 - To: 11 June 2026
+From: 07 September 2021 - To: 12 June 2026
 
-Total Time: 7,062 hrs 59 mins
+Total Time: 7,079 hrs 36 mins
 
-Dart                          5,455 hrs 4 mins      >>>>>>>>>>>>>>>>>>>------   77.23 %
-YAML                          291 hrs 8 mins        >------------------------   04.12 %
-Markdown                      263 hrs 56 mins       >------------------------   03.74 %
-TypeScript                    228 hrs 40 mins       >------------------------   03.24 %
-Kotlin                        174 hrs 54 mins       >------------------------   02.48 %
+Dart                          5,465 hrs 51 mins     >>>>>>>>>>>>>>>>>>>------   77.21 %
+YAML                          291 hrs 8 mins        >------------------------   04.11 %
+Markdown                      265 hrs 45 mins       >------------------------   03.75 %
+TypeScript                    228 hrs 40 mins       >------------------------   03.23 %
+Kotlin                        174 hrs 54 mins       >------------------------   02.47 %
 ```
 
 <!--END_SECTION:waka-->
