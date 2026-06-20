@@ -11,11 +11,6 @@ i’m moving more of it into [whuppi](https://github.com/whuppi). hopefully a mo
 - small projects that keep refusing to stay small
 - side quests with poor boundaries
 
-### elsewhere
-
-- [LinkedIn](https://www.linkedin.com/in/chaudhary-deepanshu/)
-- [Email](mailto:0qs8e9yn@duck.com)
-
 <details>
   <summary>wakatime</summary>
 
