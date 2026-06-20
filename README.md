@@ -1,47 +1,27 @@
-## 🔥 Barely functional 🔥
+## hi
 
-### 🎯 What I'm up to
+i build cross-platform apps, self-host things i probably could’ve just paid for, and keep turning side projects into full projects.
 
-- **Finding gold** in streaming algorithm-suggested trash
-- **Cross-platform apps** and full stack development
-- **Self-hosting things** I enjoy personally
-- A **fun and satisfied life**
-- Do I... **need more?**
+i’m moving more of it into [whuppi](https://github.com/whuppi), which is where the more organized version of my internet mess is supposed to live.
 
-### ⚙️ Tech & Infrastructure
+### working on
 
-`Kotlin` • `Swift` • `TypeScript` • `Flutter` • `Docker` • `GCP` • `PostgreSQL` • `Firebase` •
-`CI/CD` • `Self-hosting`
+- cross-platform apps
+- infra, tooling, and self-hosted stuff
+- small projects that keep refusing to stay small
+- side quests with poor boundaries
 
-### 🔗 Limited Visibility At
+### elsewhere
 
-- [Stack Overflow](https://stackoverflow.com/users/15199864/deepanshu) - *High enough rep to
-  actually participate*
-- [Medium](https://medium.com/@deepanshuc2141) - *Useless shitposts*
-- [LinkedIn](https://www.linkedin.com/in/chaudhary-deepanshu/) - *Professional*
-- [Email](mailto:0qs8e9yn@duck.com) - *Direct line to me*
+- [LinkedIn](https://www.linkedin.com/in/chaudhary-deepanshu/)
+- [Email](mailto:0qs8e9yn@duck.com)
 
-### 💬 Hit me up
-
-*Email me about code, life, memes, existential crises, or why they keep canceling good shows*
-
-##### 📊 *WakaTime caught me red-handed working*
+<details>
+  <summary>wakatime</summary>
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 07 September 2021 - To: 19 June 2026
-
-Total Time: 7,123 hrs 32 mins
-
-Dart                          5,474 hrs 49 mins     >>>>>>>>>>>>>>>>>>>------   76.86 %
-YAML                          296 hrs 18 mins       >------------------------   04.16 %
-Markdown                      283 hrs 10 mins       >------------------------   03.98 %
-TypeScript                    229 hrs 21 mins       >------------------------   03.22 %
-Kotlin                        174 hrs 54 mins       >------------------------   02.46 %
-```
-
 <!--END_SECTION:waka-->
+</details>
 
 <!---
 If you're reading this in the raw file, you've gone too deep. Go back.
