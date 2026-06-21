@@ -15,6 +15,19 @@ i’m moving more of it into [whuppi](https://github.com/whuppi). hopefully a mo
   <summary>wakatime</summary>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 07 September 2021 - To: 20 June 2026
+
+Total Time: 7,139 hrs 32 mins
+
+Dart                          5,475 hrs 11 mins     >>>>>>>>>>>>>>>>>>>------   76.69 %
+YAML                          297 hrs 13 mins       >------------------------   04.16 %
+Markdown                      288 hrs 14 mins       >------------------------   04.04 %
+TypeScript                    229 hrs 22 mins       >------------------------   03.21 %
+Kotlin                        174 hrs 54 mins       >------------------------   02.45 %
+```
+
 <!--END_SECTION:waka-->
 </details>
 
