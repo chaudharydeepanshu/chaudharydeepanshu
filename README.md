@@ -17,12 +17,12 @@ i’m moving more of it into [whuppi](https://github.com/whuppi). hopefully a mo
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2021 - To: 04 August 2026
+From: 07 September 2021 - To: 05 August 2026
 
-Total Time: 7,494 hrs 3 mins
+Total Time: 7,496 hrs 25 mins
 
-Dart                          5,620 hrs 14 mins     >>>>>>>>>>>>>>>>>>>------   75.00 %
-Markdown                      386 hrs 30 mins       >------------------------   05.16 %
+Dart                          5,622 hrs             >>>>>>>>>>>>>>>>>>>------   75.00 %
+Markdown                      386 hrs 40 mins       >------------------------   05.16 %
 YAML                          325 hrs 29 mins       >------------------------   04.34 %
 TypeScript                    229 hrs 24 mins       >------------------------   03.06 %
 Kotlin                        174 hrs 54 mins       >------------------------   02.33 %
