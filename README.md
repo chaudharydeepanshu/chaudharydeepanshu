@@ -17,7 +17,7 @@ i’m moving more of it into [whuppi](https://github.com/whuppi). hopefully a mo
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2021 - To: 03 September 2026
+From: 07 September 2021 - To: 04 September 2026
 
 Total Time: 7,797 hrs 20 mins
 
